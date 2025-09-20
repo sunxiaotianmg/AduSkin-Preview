@@ -10,8 +10,9 @@ Pursuing the ultimate, always striving for perfection
 ### 😍 Preview
 ![image](https://github.com/AduDesign/AduSkin-Preview/blob/main/Screenshot/ControlLibrary.png?raw=true)
 
-![image](https://github.com/AduDesign/AduSkin-Preview/blob/main/Screenshot/Home.png?raw=true)
+![image](https://github.com/AduDesign/AduSkin-Preview/blob/main/Screenshot/Use.png)
 
+![image](https://github.com/AduDesign/AduSkin-Preview/blob/main/Screenshot/Home.png?raw=true)
 
 ### 💎 Using Reference "AduSkin.Demo"
 ```c
