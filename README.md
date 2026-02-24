@@ -8,9 +8,9 @@ Pursuing the ultimate, always striving for perfection
 </div>
 
 ### 😍 Preview
-![image](https://github.com/AduDesign/AduSkin-Preview/blob/main/Screenshot/ControlLibrary.png?raw=true)
+![image](https://github.com/AduDesign/AduSkin-Preview/blob/main/Screenshot/Components.png?raw=true)
 
-![image](https://github.com/AduDesign/AduSkin-Preview/blob/main/Screenshot/Use.png)
+![image](https://github.com/AduDesign/AduSkin-Preview/blob/main/Screenshot/Detail.png?raw=true)
 
 ![image](https://github.com/AduDesign/AduSkin-Preview/blob/main/Screenshot/Home.png?raw=true)
 
@@ -50,7 +50,7 @@ If you think it's good to use, you can sponsor my coffee.
 
 ### 👚 Use case
 
-> 【SuperEvil】
+> 【[SuperEvil](https://github.com/AduDesign/SuperEvil)】
 
 ![image](https://github.com/aduskin/AduSkin/blob/master/screenshot/project/SuperEvil.png)
 
